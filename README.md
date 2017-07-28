@@ -1,6 +1,6 @@
 # Trucking.Good.Food.
 
-<p align="center">  Link to [AppStore](https://itunes.apple.com/us/app/trucking-good-food-tgf/id1233853615?mt=8) </p>
+Link to [AppStore](https://itunes.apple.com/us/app/trucking-good-food-tgf/id1233853615?mt=8)
 
 <p align="center"> <img src="/images/appDemo.gif" width="250"> <img src="/images/appDemo2.gif" width="250"> <img src="/images/appDemo3.gif" width="250"> </p>
 
