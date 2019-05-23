@@ -12,8 +12,6 @@ SUMMARY: Developed for the City of San Francisco, this app is designed for those
 
 TECHNICALS:
 
-apis and sdks: Multiple
+apis and sdks: Multiple (Google Maps, Google Places, Facebook)
 
 ui/ux: User research (personas, surveys, statement analytics), core animation + gesture recognition + av foundation, auto layout, custom tableviews + cells, segue transitions, programmatic constraints
-
-under the hood: AWS EC2 Deployment, Custom server-side with Swift via Perfect implementation, Mustache templating, StORM layering for ORM support to PostgreSQL, Core Data, local and remote data persistence, JSON parsing, completion handling, programmatic constraints, notifications & delegates, tableview sorting and dequeueing, .xib, only 2 view controllers. 
