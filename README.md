@@ -6,12 +6,6 @@
 
 NAME: Trucking.Good.Food. (TGF)
 
-IMPLEMENTATION TIMELINE: 130 hours.
-
 SUMMARY: Developed for the City of San Francisco, this app is designed for those who quickly want eat at one of the food trucks within the city but may not yet know how or where to find them. This app shows your real-time location and the trucks around you + pulls menu data for any truck you request + even allows for you to share its location with your friends, look up one of the trucks food items, and keeps track of the food trucks you have viewed by using different color indications. 
 
-TECHNICALS:
-
-apis and sdks: Multiple (Google Maps, Google Places, Facebook)
-
-ui/ux: User research (personas, surveys, statement analytics), core animation + gesture recognition + av foundation, auto layout, custom tableviews + cells, segue transitions, programmatic constraints
+DETAILS: User research (personas, surveys, statement analytics), core animation + gesture recognition + av foundation, auto layout, custom tableviews + cells, segue transitions, programmatic constraints. SDKs include: Google Places, Google Maps, Facebook.
